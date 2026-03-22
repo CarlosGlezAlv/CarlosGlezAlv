@@ -1,18 +1,31 @@
-# Hola, soy Carlos Emmanuel Gonzalez 💻
+# ¡Hola! Soy Carlos Emmanuel 👋 
 
-[cite_start]Estudiante de Ingeniería en Sistemas Computacionales próximo a egresar del ITZAS[cite: 4, 26]. 
-[cite_start]Me especializo en el desarrollo de software con una lógica sólida y un enfoque en la resolución de problemas[cite: 5, 6, 42].
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CarlosGlezAlv&label=Perfil%20Visto&color=0e75b6&style=flat" alt="Vistas" />
+</p>
 
-### 🛠️ Tecnologías y Herramientas
-- [cite_start]**Lenguajes:** JavaScript (ES6+), Node.js, PHP, Python, Java, C#[cite: 14, 15, 21, 55].
-- [cite_start]**Frontend:** HTML5, CSS3, JS Puro (enfocado en rendimiento)[cite: 13, 14, 32].
-- [cite_start]**Bases de Datos:** SQL, MySQL y SQLite[cite: 16, 64].
-- [cite_start]**Otros:** Git, GitHub, Cisco Packet Tracer, Unity 3D[cite: 17, 19, 53].
+### 🚀 Sobre mí
+[cite_start]Soy un **estudiante de Ingeniería en Sistemas Computacionales** próximo a egresar del **ITZAS**[cite: 4, 26]. [cite_start]Me apasiona la lógica de programación y tengo experiencia implementando sistemas ERP y plataformas escolares en entornos reales[cite: 5, 31, 38].
 
-### 📜 Certificaciones
-- [cite_start]**Scrum Fundamentals Certified (SFC)**[cite: 67].
-- [cite_start]**Artificial Intelligence Fundamentals** - IBM SkillsBuild[cite: 70].
+- [cite_start]🎓 **Promedio Sobresaliente:** Especialista en Estructura de Datos (97) y Bases de Datos (97)[cite: 27, 28].
+- [cite_start]🛠️ **Enfoque:** Código limpio, optimización de rendimiento y soluciones escalables[cite: 6, 32].
+- [cite_start]💡 **Certificaciones:** Scrum Fundamentals (SFC) e IA Fundamentals por IBM[cite: 67, 70].
+
+### 🛠️ Tecnologías que domino
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+### 📊 Mis Estadísticas de GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosGlezAlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGlezAlv&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
 
 ---
-[cite_start]📫 Contacto: carlosglezalv2004@gmail.com [cite: 9]
-[cite_start]🔗 [LinkedIn](https://www.linkedin.com/in/carlos-gonzalez-696446337) [cite: 11]
+[cite_start]📫 **¿Hablamos?** [LinkedIn](https://www.linkedin.com/in/carlos-gonzalez-696446337) | carlosglezalv2004@gmail.com [cite: 9, 11]
